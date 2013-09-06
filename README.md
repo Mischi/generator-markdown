@@ -1,4 +1,4 @@
-# generator-markdown [![Build Status](https://secure.travis-ci.org/Mischi/generator-markdown.png?branch=master)](https://travis-ci.org/Mischi/generator-markdown)
+# generator-markdown 
 
 A generator for [Yeoman](http://yeoman.io).
 
