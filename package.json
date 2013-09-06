@@ -1,0 +1,42 @@
+{
+  "name": "generator-markdown",
+  "version": "0.0.1",
+  "description": "A generator for Yeoman",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "homepage": "https://github.com/Mischi/generator-markdown",
+  "bugs": "https://github.com/Mischi/generator-markdown/issues",
+  "author": {
+    "name": "Fabian Raetz",
+    "email": "fabian.raetz@gmail.com",
+    "url": "https://github.com/Mischi"
+  },
+  "main": "app/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Mischi/generator-markdown.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "yeoman-generator": "~0.13.0",
+    "underscore.string": "~2.3.3"
+  },
+  "devDependencies": {
+    "mocha": "~1.12.0"
+  },
+  "peerDependencies": {
+    "yo": ">=1.0.0-rc.1"
+  },
+  "engines": {
+    "node": ">=0.8.0",
+    "npm": ">=1.2.10"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ]
+}
